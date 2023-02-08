@@ -2,4 +2,4 @@
 
 form builder boilerplate
 
-![preview image](https://github.com/form-builder-boilerplate//blob/master/screenshot.png?raw=true)
+![preview image](https://raw.githubusercontent.com/zhabinsky/form-builder-boilerplate/master/screenshot.png?raw=true)
